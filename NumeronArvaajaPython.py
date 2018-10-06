@@ -8,7 +8,7 @@ myName = input()
 
 number = random.randint(1, 20)
 
-print('Pelataan!, ' + myName + 'Arvaa luku 1-20 väliltä?')
+print('Pelataan!, ' + myName + ', Arvaa luku 1-20 väliltä?')
 
 while guessesTaken < 6:
     print('Arvaa?')
